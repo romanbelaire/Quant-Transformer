@@ -1,0 +1,6 @@
+To do:
+ranking functions
+backtesting functions
+  -pnl
+  -multi-window
+use chatgpt to generate evaluations of why the stocks are ranked the way they are, based on attention layers
